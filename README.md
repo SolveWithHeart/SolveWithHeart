@@ -8,6 +8,9 @@ I'm Deeyar, a Senior Frontend Developer (ReactJS, Typescript) with 7 years of pr
 - visualization tools;
 - setting up architecture for a web application with learning resources;
 
+<br/>
+<br/>
+
 - 🌱 I’m currently learning how to "think" like a Software Architect;
 - 👯 I’m looking to collaborate on capturing projects helping make the World a better place
 - 🤔 I’m looking for help with skills to become a Team/Tech Lead
